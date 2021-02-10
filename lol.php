@@ -1,4 +1,4 @@
 <?php
 echo "I";
-echo exec('whoami');
+//echo exec('whoami');
 ?>
